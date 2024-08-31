@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelgodlove
-- 👀 I’m interested in ... hacking 
-- 🌱 I’m currently learning ...hacking
+- 👀 I’m interested in ... web development 
+- 🌱 I’m currently learning ...SQl 
 - 💞️ I’m looking to collaborate on ... CYBER SECURITY 
 - 📫 How to reach me ... michaelmateru29@gmail.com
 
